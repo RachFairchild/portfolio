@@ -1,15 +1,17 @@
 
 # Rachel Fairchild :woman_technologist:
-A personal portfolio webpage to showcase what I've been up to.
+A simple portfolio webpage to showcase what I've been up to.
 
 ## Demo
-
+<div align="center">
+	
+![Portfolio demo](https://github.com/RachFairchild/portfolio/blob/main/images/personal-portfolio-demo.gif)
 [View live site!](https://rachelfairchild.netlify.app/)
 
-![Portfolio demo](https://github.com/RachFairchild/portfolio/blob/main/images/personal-portfolio-demo.gif)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b5be9d68-6b0c-401d-a118-d67edf259dee/deploy-status)](https://app.netlify.com/sites/rachelfairchild/deploys)
 
+</div>
 
 ## Acknowledgements
 
