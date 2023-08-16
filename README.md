@@ -6,6 +6,7 @@ A simple portfolio webpage to showcase what I've been up to.
 <div align="center">
 	
 ![Portfolio demo](https://github.com/RachFairchild/portfolio/blob/main/images/personal-portfolio-demo.gif)
+<br>
 [View live site!](https://rachelfairchild.netlify.app/)
 
 
