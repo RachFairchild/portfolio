@@ -21,11 +21,18 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
 	Icons:
 		Font Awesome (fontawesome.io)
+
+	Favicon: 
+		Favicon.io
+		This favicon was generated using the following graphics from Twitter Twemoji:
+
+		- Graphics Title: 1f469-200d-1f4bb.svg
+		- Graphics Author: Copyright 2020 Twitter, Inc and other contributors (https://github.com/twitter/twemoji)
+		- Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg/1f469-200d-1f4bb.svg
+		- Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
 
 	Other:
 		jQuery (jquery.com)
